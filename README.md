@@ -103,9 +103,7 @@ A photography-inspired web project focused on **visual design, UI/UX, and intera
 ## 🐍 Contribution Snake
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/PradiptaPPLG/PradiptaPPLG/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
-
+  <img src="https://raw.githubusercontent.com/PradiptaPPLG/PradiptaPPLG/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 </p>
 
 ---
