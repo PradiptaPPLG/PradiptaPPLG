@@ -2,9 +2,11 @@
 
 Hi! I'm **Pradipta Endra Maulana**, a Software Engineering student from Indonesia 🇮🇩.
 
-I'm passionate about **building web applications, exploring new technologies, and creating clean & engaging user interfaces**.
+I'm passionate about **web development, UI/UX design, and exploring new technologies**. I enjoy turning ideas into real projects, experimenting with different technologies, and learning something new along the way.
 
-I enjoy turning ideas into real projects, experimenting with new technologies, and learning something new with every project I build.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Web+Developer;Fullstack+Developer+in+Progress;UI%2FUX+Enthusiast;Always+Learning+%26+Building" />
+</p>
 
 ---
 
@@ -18,6 +20,19 @@ I enjoy turning ideas into real projects, experimenting with new technologies, a
 * 📱 Interested in Mobile Development
 * 🧠 Always learning and improving
 * 🔧 Enjoy building and experimenting with projects
+* 🚀 Turning ideas into real applications
+
+---
+
+## 🌱 Currently Learning
+
+* 🌐 HTML, CSS & JavaScript
+* 🐍 Python
+* 🐘 PHP & MySQL
+* ⚡ Laravel
+* ⚛️ React
+* 🎨 UI/UX Design
+* 🐳 Docker & Development Tools
 
 ---
 
@@ -26,19 +41,19 @@ I enjoy turning ideas into real projects, experimenting with new technologies, a
 <p align="center">
 
 <a href="https://www.linkedin.com/in/pradipta-endra-maulana-819525350/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://www.instagram.com/massdiipp/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
 <a href="mailto:pradipta02032009@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <a href="https://pixelcam-flame.vercel.app/">
-  <img src="https://img.shields.io/badge/Project-PixelCam-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/PixelCam-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 </p>
@@ -49,10 +64,13 @@ I enjoy turning ideas into real projects, experimenting with new technologies, a
 
 ### 📸 PixelCam
 
-A photography-inspired web project built with a focus on **visual design, UI/UX, and interactive user experience**.
+A photography-inspired web project focused on **visual design, UI/UX, and interactive user experience**.
 
-🔗 **Live Demo:**
-https://pixelcam-flame.vercel.app/
+<p align="center">
+  <a href="https://pixelcam-flame.vercel.app/">
+    <img src="https://img.shields.io/badge/🚀%20Live%20Demo-PixelCam-00F7FF?style=for-the-badge" />
+  </a>
+</p>
 
 ---
 
@@ -70,9 +88,9 @@ https://pixelcam-flame.vercel.app/
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=PradiptaPPLG&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PradiptaPPLG&layout=compact&theme=tokyonight&hide_border=true" />
 
 </p>
 
@@ -82,7 +100,7 @@ https://pixelcam-flame.vercel.app/
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=PradiptaPPLG&theme=tokyonight&hide_border=true" />
 
 </p>
 
@@ -92,7 +110,7 @@ https://pixelcam-flame.vercel.app/
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&margin-w=5" />
+<img src="https://github-profile-trophy.vercel.app/?username=PradiptaPPLG&theme=algolia&no-frame=true&no-bg=true&margin-w=5&column=7" />
 
 </p>
 
@@ -102,7 +120,7 @@ https://pixelcam-flame.vercel.app/
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PradiptaPPLG&theme=tokyo-night&hide_border=true&area=true" />
 
 </p>
 
@@ -112,17 +130,17 @@ https://pixelcam-flame.vercel.app/
 
 <p align="center">
 
-<img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg" alt="GitHub Contribution Snake" />
+<img src="https://raw.githubusercontent.com/PradiptaPPLG/PradiptaPPLG/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 
 </p>
 
 ---
 
-## 👀 Visitors
+## 👀 Profile Visitors
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue" />
+<img src="https://komarev.com/ghpvc/?username=PradiptaPPLG&style=for-the-badge&color=00F7FF&label=PROFILE+VIEWS" />
 
 </p>
 
@@ -132,6 +150,6 @@ https://pixelcam-flame.vercel.app/
 
 ### ⭐ Thanks for visiting my profile!
 
-Keep learning. Keep building. Keep improving. 🚀
+**Keep learning. Keep building. Keep improving. 🚀**
 
 </p>
